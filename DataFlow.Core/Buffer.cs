@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataFlow.Core
+﻿public class Buffer<T>
 {
-    internal class Buffer
+    protected readonly List<T> items = new();
+    public int Count => items.Count;
+    public virtual bool TryAdd(T item)
     {
+        items.Add(item);
+        return true;
     }
 }
