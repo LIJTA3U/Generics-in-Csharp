@@ -77,7 +77,7 @@ classDiagram
     }
     class InMemoryRepositoryT["InMemoryRepository<T>"]
     InMemoryRepositoryT ..|> IRepositoryT
-    IRepositoryT ..> IEntity : ограничение T : IEntity
+    IRepositoryT ..> IEntity : where T is IEntity
     InMemoryRepositoryT ..> IEntity : поиск по Id
 
     class IContainerT["IContainer<out T>"] {

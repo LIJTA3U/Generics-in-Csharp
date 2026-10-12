@@ -1,4 +1,4 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+﻿Console.OutputEncoding = new System.Text.UTF8Encoding(false);
 
 Console.WriteLine("=== Блок A: иерархии обобщённых классов ===");
 
