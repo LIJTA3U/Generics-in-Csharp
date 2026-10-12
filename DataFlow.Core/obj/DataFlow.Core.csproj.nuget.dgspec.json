@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user201-11\\Source\\Repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj": {}
+    "C:\\Users\\user201-11\\source\\repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user201-11\\Source\\Repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj": {
+    "C:\\Users\\user201-11\\source\\repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user201-11\\Source\\Repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user201-11\\source\\repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj",
         "projectName": "DataFlow.Core",
-        "projectPath": "C:\\Users\\user201-11\\Source\\Repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj",
+        "projectPath": "C:\\Users\\user201-11\\source\\repos\\Generics-in-Csharp\\DataFlow.Core\\DataFlow.Core.csproj",
         "packagesPath": "C:\\Users\\user201-11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user201-11\\Source\\Repos\\Generics-in-Csharp\\DataFlow.Core\\obj\\",
+        "outputPath": "C:\\Users\\user201-11\\source\\repos\\Generics-in-Csharp\\DataFlow.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
