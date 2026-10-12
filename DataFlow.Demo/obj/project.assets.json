@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "DataFlow.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/DataFlow.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataFlow.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataFlow.Core/1.0.0": {
+      "type": "project",
+      "path": "../DataFlow.Core/DataFlow.Core.csproj",
+      "msbuildProject": "../DataFlow.Core/DataFlow.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "DataFlow.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user105-4\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user105-4\\source\\repos\\DataFlow\\DataFlow.Core\\DataFlow.Core.csproj": {
+              "projectPath": "C:\\Users\\user105-4\\source\\repos\\DataFlow\\DataFlow.Core\\DataFlow.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
