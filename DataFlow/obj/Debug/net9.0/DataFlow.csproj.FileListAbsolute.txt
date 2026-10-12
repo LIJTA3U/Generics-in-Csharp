@@ -1,0 +1,14 @@
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\bin\Debug\net9.0\DataFlow.exe
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\bin\Debug\net9.0\DataFlow.deps.json
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\bin\Debug\net9.0\DataFlow.runtimeconfig.json
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\bin\Debug\net9.0\DataFlow.dll
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\bin\Debug\net9.0\DataFlow.pdb
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.AssemblyInfoInputs.cache
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.AssemblyInfo.cs
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.csproj.CoreCompileInputs.cache
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.dll
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\refint\DataFlow.dll
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.pdb
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\DataFlow.genruntimeconfig.cache
+C:\Users\user105-4\source\repos\DataFlow\DataFlow\obj\Debug\net9.0\ref\DataFlow.dll
